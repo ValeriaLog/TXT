@@ -1,0 +1,9 @@
+txt
+Type Bug
+Status Done
+Priority Low
+Severyti Minor
+Description No space in header
+Steps Go to main page
+Expected result There is a space in the title
+Actual resalt There is no space in the title
